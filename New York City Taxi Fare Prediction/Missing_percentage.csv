@@ -1,0 +1,8 @@
+Variables,Missing_percentage
+passenger_count,0.3511684331503001
+fare_amount,0.14046737326012004
+pickup_datetime,0.006384880602732728
+pickup_longitude,0.0
+pickup_latitude,0.0
+dropoff_longitude,0.0
+dropoff_latitude,0.0
